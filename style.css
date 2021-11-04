@@ -2,4 +2,7 @@
   .news-input {
     width: 50%;
   }
+  .box-card {
+    padding-bottom: 2rem;
+  }
 }
